@@ -196,10 +196,8 @@ curl http://<your-ec2-public-ip>/me
 **John Abioye (@John Billon)**
 Backend Developer | AWS Certified | Cloud & DevOps Engineer
 
-📧 [adeolujohn495@gmail.com](mailto:adeolujohn495@gmail.com)
-🐙 GitHub: [github.com/BILLIYON]([(https://github.com/BILLIYON/HNG-Backend-Wizards-Stage-0-Task)])
-🌐 Deployed API: [http://54.158.6.245/me](http://54.158.6.245/me)
+📧 [adeolujohn495@gmail.com](mailto:adeolujohn495@gmail.com) 
+🐙 GitHub: [github.com/BILLIYON]([(https://github.com/BILLIYON/HNG-Backend-Wizards-Stage-0-Task)]) 
+🌐 Deployed API: [http://54.158.6.245/me](http://54.158.6.245/me) 
 
 ---
-
-Would you like me to include a short **license section (MIT)** and a **“What I Learned” reflection paragraph** at the end to make it look more polished for reviewers and portfolio readers?
